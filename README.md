@@ -1,2 +1,12 @@
-# api-tester-tool
-Tool to test and display API responses in JSON format.
+# API Tester Tool
+
+Tool to test APIs and display JSON responses.
+
+## Tech
+- HTML
+- JavaScript
+
+## Features
+- Input API URL
+- Fetch data
+- Display JSON result
